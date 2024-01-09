@@ -55,3 +55,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 http://203.162.235.41:20099
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Undefined",NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-logo="https://i.imgur.com/UKKsnhD.png" group-title="Undefined",延边卫视 (720p)
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
