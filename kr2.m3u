@@ -1,8 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="YTN2.kr" tvg-logo="https://i.imgur.com/g6Nhwmb.png" group-title="Education",YTN2 (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
-#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="General",YTN (1080p)
-https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Undefined",TV Chosun 2 (720p)
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV Chosun (720p)
@@ -23,23 +18,7 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-logo="https://i.imgur.com/O6G4tJ8.png" group-title="Undefined",조선중앙방송 (576p)
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://i.imgur.com/t0uZcSR.png" group-title="General",NHK BS (720p)
-http://203.162.235.41:20099
-#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Undefined",NHK BSP4K (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1,tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://epg.112114.xyz/logo/直播中国.png" group-title="其他",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="•卫视「IPV6」",北京卫视「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="•卫视「IPV6」",东方卫视「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/cctv1.png" group-title="•央视「IPV6」",CCTV1「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/cctv2.png" group-title="•央视「IPV6」",CCTV2「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/cctv5.png" group-title="•央视「IPV6」",CCTV5「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/cctv5+.png" group-title="•央视「IPV6」",CCTV5+「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/cctv13.png" group-title="•央视「IPV6」",CCTV13「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="Undefined",TV Chosun 2 (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
